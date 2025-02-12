@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\aspnetapp.exe
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\appsettings.Development.json
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\appsettings.json
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\aspnetapp.dll
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\aspnetapp.deps.json
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\aspnetapp.runtimeconfig.json
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\aspnetapp.pdb
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\aspnetapp\aspnetapp\out\Swashbuckle.AspNetCore.SwaggerUI.dll
